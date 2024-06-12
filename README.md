@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 ¡Hola, soy Carlos!##
 
-<!--
-**CarlosZambranop/CarlosZambranop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub! Soy un desarrollador en proceso especializado en .NET y siempre estoy buscando aprender y mejorar mis habilidades.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+🎓 Actualmente estoy estudiando Desarrollo software en Instituto tecnologico tecnico central.
+💻 Me apasiona el desarrollo en .NET, C#, y las tecnologías web.
+🌱 Actualmente estoy aprendiendo sobre arquitectura de software y buenas prácticas de desarrollo.
+🔭 Trabajando en proyectos personales y colaborativos para mejorar mis habilidades.
+⚡ Me encanta resolver problemas y aprender cosas nuevas.
+## 🛠️ Habilidades
+- Lenguajes de programación: C#, JavaScript, HTML, CSS
+- Frameworks: .NET, ASP.NET Core, Blazor
+- Herramientas: Visual Studio, Git, GitHub
+- Bases de datos: SQL Server, MySQL
