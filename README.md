@@ -1,4 +1,4 @@
-## 👋 ¡Hola, soy Carlos!##
+## 👋 ¡Hola, soy Carlos!
 
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador en proceso especializado en .NET y siempre estoy buscando aprender y mejorar mis habilidades.
 
