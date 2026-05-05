@@ -1,6 +1,6 @@
 ## 👋 ¡Hola, soy Carlos!
 
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador en proceso especializado en .NET y siempre estoy buscando aprender y mejorar mis habilidades.
+¡Bienvenido a mi perfil de GitHub! Soy un desarrollador especializado en .NET y siempre estoy buscando aprender y mejorar mis habilidades.
 
 ## 🚀 Sobre mí
 🎓 Actualmente estoy estudiando Desarrollo software en Instituto tecnologico tecnico central.
